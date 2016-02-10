@@ -1,0 +1,45 @@
+.container{
+overflow: hidden;
+font-family: 'Calibri';
+}
+.container > h1{
+  margin-left:10px;
+  background: #6d89d2;
+  color: white;
+  padding: 10px;
+}
+.sidebar ul{
+  margin:0;
+  paddin:0;
+}
+.sidebar ul li {
+  list-style: none;  
+}
+.sidebar ul{
+  float:left;
+}
+.cuadro{
+  border:none; 
+  margin-bottom: 06px;
+  padding:20px;
+  background: #6d89d2;
+  color: white;
+  height: 20px;
+  width: 80px;
+  font-family: 'arial';
+  
+}
+.parrafo{
+  width: 80%;
+  float: left;
+  margin-left:40px;
+  
+}
+.sidebar{
+  float:left;
+}
+.fotos img{
+  float:left;
+  width: 20%;
+  margin-left:40px;
+}
